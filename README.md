@@ -1,4 +1,4 @@
-# registration-form-validation    
+# Registration-form-Validation    
 
 This repository contains code for registration page with form validation.    
 
